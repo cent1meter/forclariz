@@ -237,5 +237,38 @@ body{
 }
 
 
+@media (max-width: 360px) {
+    .letter-box {
+        padding: 1em;
+        margin: 0.5em;
+    }
 
+    .letter-box h1 {
+        font-size: 1.3rem;
+    }
+
+    .letter-box p {
+        font-size: 0.9rem;
+    }
+
+    .flying-heart, .flying-heart2, .flying-heart3 {
+        font-size: 25px;
+    }
+}
+
+
+@media (min-width: 431px) and (max-width: 768px) {
+    .thepage {
+        max-width: 90%;
+    }
+
+    .letter-box {
+        font-size: 1.1rem;
+        padding: 2em;
+    }
+
+    .flying-heart, .flying-heart2, .flying-heart3 {
+        font-size: 35px; 
+    }
+}
 
