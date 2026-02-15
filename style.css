@@ -271,18 +271,19 @@ body{
 @media (min-width: 431px) and (max-width: 768px) {
     .thepage {
         max-width: 90%;
-        font-family: 'Comic Sans MS';
+        
     }
 
     .letter-box {
         font-size: 1.1rem;
         padding: 2em;
-        font-family: 'Comic Sans MS';
+        
     }
 
     .flying-heart, .flying-heart2, .flying-heart3 {
         font-size: 35px; 
-        font-family: 'Comic Sans MS';
+        
     }
 }
+
 
