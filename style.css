@@ -171,7 +171,7 @@ body{
     font-size: 50px;
     font-weight: 1;
     font-style: justify;
-    font-family: 'Comic Sans MS', cursive;
+    font-family: 'Comic Sans MS';
 }
 
 .letter-box p {
@@ -179,7 +179,7 @@ body{
     font-size: 18px;
     font-weight: 20;
     font-style: justify;
-    font-family: 'Comic Sans MS', cursive;
+    font-family: 'Comic Sans MS';
 }
 
 .signature {
@@ -187,7 +187,7 @@ body{
     text-align: right;
     font-weight: 80px;
     font-style: justify;
-    font-family: 'Comic Sans MS', cursive;
+    font-family: 'Comic Sans MS';
 }
 
 
@@ -248,22 +248,22 @@ body{
     .letter-box {
         padding: 1em;
         margin: 0.5em;
-        font-family: 'Comic Sans MS', cursive;
+        font-family: 'Comic Sans MS';
     }
 
     .letter-box h1 {
         font-size: 1.3rem;
-        font-family: 'Comic Sans MS', cursive;
+        font-family: 'Comic Sans MS';
     }
 
     .letter-box p {
         font-size: 0.9rem;
-        font-family: 'Comic Sans MS', cursive;
+        font-family: 'Comic Sans MS';
     }
 
     .flying-heart, .flying-heart2, .flying-heart3 {
         font-size: 25px;
-        font-family: 'Comic Sans MS', cursive;
+        font-family: 'Comic Sans MS';
     }
 }
 
@@ -271,18 +271,18 @@ body{
 @media (min-width: 431px) and (max-width: 768px) {
     .thepage {
         max-width: 90%;
-        font-family: 'Comic Sans MS', cursive;
+        font-family: 'Comic Sans MS';
     }
 
     .letter-box {
         font-size: 1.1rem;
         padding: 2em;
-        font-family: 'Comic Sans MS', cursive;
+        font-family: 'Comic Sans MS';
     }
 
     .flying-heart, .flying-heart2, .flying-heart3 {
         font-size: 35px; 
-        font-family: 'Comic Sans MS', cursive;
+        font-family: 'Comic Sans MS';
     }
 }
 
